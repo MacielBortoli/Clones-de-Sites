@@ -1,2 +1,5 @@
 # CloneSpotify
-Clone Spotify básico! 
+
+<p>
+    <img src="./img/image.png" alt="Imagem Demonstração">
+</p>
