@@ -1,2 +1,5 @@
 # CloneTinder
-Um Clone de interface do tinder
+
+<p>
+    <img src="./img/image.png" alt="Imagem Demonstração">
+</p>
