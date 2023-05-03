@@ -1,2 +1,5 @@
 # CloneNetflix
-Um clone simples da netflix
+
+<p>
+    <img src="./img/image.png" alt="Imagem Demonstração">
+</p>
